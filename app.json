@@ -1,0 +1,23 @@
+{
+  "id": "d159a0c9-2491-46fd-aad7-a2d68dac0117",
+  "name": "MyFirstApp",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50110,
+    "to": 50149
+  }
+}
